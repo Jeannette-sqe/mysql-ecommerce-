@@ -63,7 +63,7 @@ Nele você vai entender o funcionamento do MySQL Workbench, e quais são seus pr
 
 5.	Desenvolvimento de um diagrama EER(Entidade-Relacionamento-Estendido)
 
-As consultas geraram métricas de negócios relevantes, como faturamento total, receita por categoria, valor do cliente e volume de pedidos por status, simulando a rotina analítica de um analista de dados no varejo digital.
+As consultas geraram métricas de negócios relevantes, como faturamento total, receita por categoria, valor do cliente e volume de pedidos por status, simulando a rotina analítica de um analista de dados no varejo digital (imagens).
 
 Durante o processo, exercitei *habilidades fundamentais*:
 
@@ -72,3 +72,16 @@ Modelagem de dados e normalização
 Escrita e depuração de queries SQL
 
 Interpretação de métricas de negócio aplicadas a banco de dados relacionais
+
+***Estrutura do Repositório***
+ 
+projeto_mysql_ecommerce/
+├── README.md
+├── apresent_inicial.png
+├── diagrama_eer.mwb
+├── diagrama_err.png
+└── imagens/
+    └── ecommerce.png
+└── scripts/
+    └── ecommerce.sql
+
